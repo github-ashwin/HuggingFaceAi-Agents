@@ -1,0 +1,51 @@
+# =============================
+# 🔐 Secret and Environment Files
+# =============================
+**/.env
+**/Token.txt
+**/*.key
+**/*.pem
+**/*.secret
+**/secrets/
+
+# =============================
+# 🧪 Jupyter Notebook Checkpoints
+# =============================
+**/.ipynb_checkpoints/
+
+# =============================
+# 🐍 Python Cache Files
+# =============================
+**/__pycache__/
+**/*.py[cod]
+*.so
+
+# =============================
+# 🧰 Virtual Environments
+# =============================
+**/venv/
+**/env/
+**/.env/
+
+# =============================
+# ⚙️ IDE/Editor Config Files
+# =============================
+.vscode/
+.idea/
+*.swp
+
+# =============================
+# 💻 OS Generated Files
+# =============================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# =============================
+# 🧹 Log & Temp Files
+# =============================
+*.log
+*.tmp
+*.bak
+*.cache
