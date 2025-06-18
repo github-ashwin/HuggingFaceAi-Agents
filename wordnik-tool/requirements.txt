@@ -1,0 +1,4 @@
+gradio
+requests
+python-dotenv
+smolagents
